@@ -5,4 +5,9 @@ public class MainTest {
     public void test() {
         System.out.println("MainTest");
     }
+
+    @Test
+    public void test2() {
+        System.out.println("Test2");
+    }
 }
